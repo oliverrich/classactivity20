@@ -4,5 +4,5 @@
 
 #ifndef RESIZEARRAY_HPP
 #define RESIZEARRAY_HPP
-
+void resizeArray(int*& array, int& maxSize);
 #endif //RESIZEARRAY_HPP

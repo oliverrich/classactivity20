@@ -5,4 +5,6 @@
 #ifndef SUMARRAY_HPP
 #define SUMARRAY_HPP
 
+int sumArray(int* array, int size);
+
 #endif //SUMARRAY_HPP
